@@ -1,0 +1,1 @@
+web: java -jar target/gasapi-1.0.jar
